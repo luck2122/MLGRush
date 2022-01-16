@@ -1,0 +1,4 @@
+name: de.luck212.mlgrush
+version: '${project.version}'
+main: de.luck212.mlgrush.main.Main
+api-version: 1.17
